@@ -1,10 +1,15 @@
 
 /**************************************************************************
- Author: Azadeh Nazari
- Lab No: 1
- date: 2017/08/24
- description: Toggling an LED in Pic24128GA010 under the situation that 
+ File name: main.c
+ Name: Lab1, PIC24 Oscillator configuration and GitHub with MPLAB IDE
+ Description:Toggling an LED in Pic24128GA010 under the situation that 
  the oscillator is in FRC PLL mode.  
+ Revision history:
+ Lab No: 1
+ * ******************************************************************
+ Author:             date:         comment on this revision
+ * *****************************************************************
+ Azadeh Nazari       2017/08/24    v 1.0.0 uuuu
  *************************************************************/
 #include "mcc_generated_files/mcc.h"
 #include<xc.h>
